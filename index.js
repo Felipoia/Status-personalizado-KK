@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["👑 I am RTX","Spotify","Youtube","SUBSCRIBE❤️","THANKS 🌇"];
+const statusMessages = ["💚 Saudações!","👑 GLÓRIA AOS SAPOS!","🐸 Ajudando o Masaki!","😎 De volta ao trajeto...","💴 Mais um dia, mais um Yen!","🎤 Build up our machine, You die tonight!"];
 
 
 let currentIndex = 0;
